@@ -6,7 +6,7 @@ Tech stack we used in this project <br>
 HTML | CSS | Javascript |JSON Server |
 
 <br>
-netlify link<a href="https://iskra-meesho-clone.netlify.app/index.html">  click here</a> <br>
+netlify link<a href="https://stirring-lily-826006.netlify.app/">  click here</a> <br>
 
 cyclic deployment link <a href="https://sleepy-puce-greyhound.cyclic.app/">  click here </a>
 
